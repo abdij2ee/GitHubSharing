@@ -3,6 +3,6 @@
 3.VCS --> Import into Version Control --> Share Project on GitHub
 4.Go to https://github.com/abdij2ee/GitHubSharing.
 5.Add some code to your Main class.
-6.Select all files in Version Control tab, then right click and select Commit...(Or only press Commit button in top right window 's section)
+6.Select all files in Version Control tab, then right click and select Commit...(Or only press Commit button in top right window 's section).
 7.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit and Push then Push.
 8.Refresh https://github.com/abdij2ee/GitHubSharing url.
